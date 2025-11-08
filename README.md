@@ -1,11 +1,8 @@
-# www.ms-elex.com
+# materialize.nt.ms-elex.com
 
-## ホームページの作成.(静的)
+## 日本語版　MaterializeCSS　の作成
 
-### svelte
-
-> ❌ routify3 を使う
-> ⭕ sveltekit を使う
+### sveltekit
 
 ---
 
